@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Card({ characters }) {
-  console.log(characters);
-  return <div>hi from Card</div>;
+export default function Card({ person }) {
+  console.log(person);
+  return <div>hi</div>;
 }
