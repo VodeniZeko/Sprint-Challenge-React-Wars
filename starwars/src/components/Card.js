@@ -43,7 +43,7 @@ const CardContainer = styled.div`
   }
   p {
     font-size: 0.9em;
-    letter-spacing: 1px;
+    letter-spacing: 1.1px;
     opacity: 0.9;
   }
 `;
